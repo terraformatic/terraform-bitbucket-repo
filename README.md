@@ -1,2 +1,2 @@
-# terrform-bitbucket-repo
+# terraform-bitbucket-repo
 Create Bitbucket Repositories using Terraform
