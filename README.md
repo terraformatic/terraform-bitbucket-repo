@@ -1,5 +1,5 @@
 # terraform-bitbucket-repo
-Create Bitbucket Repositories using Terraform
+Create Bitbucket Cloud Repositories using Terraform
 
 # References
 
